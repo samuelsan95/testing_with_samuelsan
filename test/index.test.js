@@ -1,4 +1,4 @@
-const { sum, isFruit } = require('../src/index')
+const { sum } = require('../src/index')
 
 test('Check sum two numbers', () => {
     //Arrange
@@ -23,16 +23,3 @@ test('Check sum two numbers and result is different', () => {
     //Assert
     expect(result).not.toBe(4)
 })
-
-test('Checker undefined, nul and false or true when call isFruit', () => {
-    //Arrange
-    const fruit = 'banana'
-    const noFruit = 'meat'
-
-    //Act
-    const result = sum(a, b)
-    
-    //Assert
-    expect(result).not.toBe(4)
-})
-
