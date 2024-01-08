@@ -1,6 +1,6 @@
 # TESTING WITH SAMUEL
 
-_Repositorio de código donde realizaremos un pequeño tutorial para aprender a hacer test unitarios en JS usando Jest_
+_Repositorio de código donde realizaremos un pequeño tutorial para aprender a hacer test unitarios en JS usando Jest._
 _Este tutorial se puede acompañar del siguiente artículo:_ 
 * [medium](https://medium.com/@sanchezlopezsamuel/dominando-el-arte-del-testing-en-javascript-explorando-test-unitarios-con-jest-9960f2f74250)
 
